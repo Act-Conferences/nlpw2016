@@ -87,13 +87,13 @@ During the whole day, people rack their brains and study a lot of Perl code. Tha
 
 <ul style="margin:1em 0 0 2em;">
 <t><nl>
-  <li>Uw bijdrage: €1.150 voor de uitgebreide lunch</li>
-  <li>U ontvangt: 3 toegangskaarten à €215</li>
+  <li>Uw bijdrage: €1.435 voor de uitgebreide lunch</li>
+  <li>U ontvangt: 3 toegangskaarten à €265</li>
   <li>In programmaboekje op achterkaft, buitenzijde, full-colour</li>
   <li>Advertorial 1 pagina.</li>
 </nl><en>
-  <li>Your contribution: €1,150 for the copious lunch</li>
-  <li>You receive: 3 workshop tickets, each worth €215</li>
+  <li>Your contribution: €1,435 for the copious lunch</li>
+  <li>You receive: 3 workshop tickets, each worth €265</li>
   <li>In programme folder on outside back cover, full-colour</li>
   <li>Advertorial, 1 page.</li>
 </en></t>
@@ -118,13 +118,13 @@ At the end of the day all attendees are invited to come to <a href="http://www.g
 
 <ul style="margin:1em 0 0 2em;">
 <t><nl>
-  <li>Uw bijdrage: €775 voor de helft van het warm- en koudbuffet</li>
-  <li>U ontvangt: 2 toegangskaarten à €215</li>
+  <li>Uw bijdrage: €985 voor de helft van het warm- en koudbuffet</li>
+  <li>U ontvangt: 2 toegangskaarten à €265</li>
   <li>In programmaboekje op voorkaft, binnenzijde, full-colour</li>
   <li>Advertorial 1 pagina.</li>
 </nl><en>
-  <li>Your contribution: €775 for one half of the warm and cold buffet</li>
-  <li>You receive: 2 workshop tickets, each worth €215</li>
+  <li>Your contribution: €985 for one half of the warm and cold buffet</li>
+  <li>You receive: 2 workshop tickets, each worth €265</li>
   <li>In programme folder on inside front cover, full-colour</li>
   <li>Advertorial, 1 page.</li>
 </en></t>
@@ -154,13 +154,13 @@ What's a Perl workshop without coffee, coffee and more coffee. Tea and other bev
 
 <ul style="margin:1em 0 0 2em;">
 <t><nl>
-  <li>Uw bijdrage: €425 voor de koffiepauzes gedurende het programma</li>
-  <li>U ontvangt: 1 toegangskaart à €215</li>
+  <li>Uw bijdrage: €535 voor de koffiepauzes gedurende het programma</li>
+  <li>U ontvangt: 1 toegangskaart à €265</li>
   <li>Volledige pagina advertentie, full-colour</li>
   <li>Advertorial ½ pagina.</li>
 </nl><en>
-  <li>Your contribution: €425 for the coffee breaks during the programme</li>
-  <li>You receive: 1 workshop ticket worth €215</li>
+  <li>Your contribution: €535 for the coffee breaks during the programme</li>
+  <li>You receive: 1 workshop ticket worth €265</li>
   <li>Full-page advertisement, full-colour</li>
   <li>Advertorial, ½ page.</li>
 </en></t>
@@ -191,14 +191,37 @@ The lowest sponsorship rank of a 'bronze sponsor' also has its benefits. The buf
 
 <ul style="margin:1em 0 0 2em;">
 <t><nl>
-  <li>Uw bijdrage: €150  voor een deel van het afsluitende dessert</li>
+  <li>Uw bijdrage: €185  voor een deel van het afsluitende dessert</li>
   <li>U ontvangt: Géén toegangskaarten</li>
   <li>Programmaboekje: Halve pagina advertentie, full-colour</li>
   <li>Advertorial ½ pagina.</li>
 </nl><en>
-  <li>Your contribution: €150 for a share of the final dessert</li>
+  <li>Your contribution: €185 for a share of the final dessert</li>
   <li>You receive: no workshop tickets</li>
   <li>Half-page advertisement, full-colour</li>
   <li>Advertorial, ½ page.</li>
 </en></t>
 </ul>
+
+<p class="space_before_h4" />
+<h3>
+<t><nl>
+Opmerking:
+</nl><en>
+Please Note
+</en></t>
+</h3>
+
+<p>
+<t><nl>
+Het organiseren van een Perl Workshop is alleen mogelijk door de inzet van
+vrijwilligers, die naast hun werk tijd en energie steken in dit evenement voor
+de Perl gemeenschap. Het kan zijn dat vanwege gebrek aan tijd of middelen enkele van de bovengenoemde sponsor-presentaties niet geheel waargemaakt kunnen worden.
+We zullen ons best doen om u als sponsor zoveel mogelijk aandacht te schenken
+als redelijkerwijze van de organisatie verwach kan worden.
+</nl><en>
+Organising a Perl Workshop is only possible because of the volunteers that put
+effort in it, that put time and energy into organising this event for the Perl
+Community. Because of lack of time or resources, it might happen that that some sponsor-presentations might not be fully accomplished. We will always try to
+give our sponsors as much exposure as that might be reasonable expected from us.
+</en>

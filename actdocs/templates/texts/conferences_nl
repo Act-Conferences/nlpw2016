@@ -39,6 +39,13 @@ Check the programmes to get an impression of the topics.
     <thead>
     <tbody>
       <tr>
+        <td><a class="ext" target="_blank" href="http://www.perlworkshop.nl/nlpw2015/?language=<t><nl>nl</nl><en>en</en></t>">NLPW 2015</a></td>
+        <td>
+          <a class="ext" target="_blank" href="http://www.perlworkshop.nl/nlpw2015/schedule?language=<t><nl>nl</nl><en>en</en></t>">
+          [% cs_programme %] 2015</a>        
+        </td>
+      </tr>
+      <tr>
         <td><a class="ext" target="_blank" href="http://www.perlworkshop.nl/nlpw2014/?language=<t><nl>nl</nl><en>en</en></t>">NLPW 2014</a></td>
         <td>
           <a class="ext" target="_blank" href="http://www.perlworkshop.nl/nlpw2014/schedule?language=<t><nl>nl</nl><en>en</en></t>">

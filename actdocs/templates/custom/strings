@@ -9,11 +9,11 @@
 
 [% IF global.request.language == 'nl' %]
   [%
-    cs_event_date_year   = '10 april 2015'
-    cs_event_date        = '10 april'
+    cs_event_date_year   = '1 april 2016'
+    cs_event_date        = '1 april'
     cs_event_dow         = 'vrijdag'
     cs_event_dow_short   = 'Vr'
-    cs_event_start_hr    = '9'
+    cs_event_start_hr    = '09'
     cs_event_start_min   = '00'
     cs_event_end_hr      = '18'
     cs_event_end_min     = '00'
@@ -35,8 +35,8 @@
   %]
 [% ELSE %]
   [%
-    cs_event_date_year   = '10th of April 2015'
-    cs_event_date        = 'April 10th'
+    cs_event_date_year   = '1st of April 2016'
+    cs_event_date        = 'April 1st'
     cs_event_dow         = 'Friday'
     cs_event_dow_short   = 'Fri'
     cs_event_start_hr    = '9'
@@ -133,15 +133,15 @@
 [%# language-independent %]
   [%
     cs_home_link         = "/$global.request.conference/"
-    cs_event_year        = '2015'
+    cs_event_year        = '2016'
 
-    cs_loc_name          = 'Universiteit voor Humanistiek'
-    cs_loc_city          = 'Utrecht'
+    cs_loc_name          = 'B.Amsterdam'
+    cs_loc_city          = 'Amsterdam'
     cs_loc_article       = "$cs_de"
 
     cs_loc_line1         = "$cs_loc_name"
-    cs_loc_line2         = 'Kromme Nieuwegracht 29'
-    cs_loc_line3         = '3512 HD Utrecht'
+    cs_loc_line2         = 'Johan Huizingalaan 763a'
+    cs_loc_line3         = '1066 VH Amsterdam'
     
     cs_video_link        = '#'
   %]
