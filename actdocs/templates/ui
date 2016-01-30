@@ -40,12 +40,13 @@
     [% IF banner %]
       <div class="pattern" role="main">
         <div class="container">
-          <div class="col-md-7">
-            <img src="[% make_uri_info('img', 'NLPW.png') %]" alt="NLPW Logo" style="width:100%;">
+          <div class="col-md-12">
+            <img src="[% make_uri_info('img', 'simple_black_and_white.png') %]" alt="NLPW Logo" style="width:100%;">
           </div>
-          <div class="col-md-5">
+          <br>
+          <div class="col-md-12">
             <h2><span class="nlpwbold">[% global.conference.name %]</span></h2>
-            <h2><span class="nlpwbold">[% cs_event_date %] :: [% cs_loc_city %]</span></h2>
+            <h2><span class="nlpwbold">[% cs_event_date %] . [% cs_loc_city %]</span></h2>
             <p>
               <a href="[% make_uri_info('newtalk') %]" class="btn btn-primary btn-lg">Submit a talk <span class="glyphicon glyphicon-chevron-right"></span></a>
               <a href="[% make_uri_info('register') %]" class="btn btn-primary btn-lg">Register <span class="glyphicon glyphicon-chevron-right"></span></a>
