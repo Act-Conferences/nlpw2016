@@ -25,6 +25,13 @@ font-weight: normal;
 src: local('Avenir Next LT Pro Medium Condensed'), url('../fonts/AvenirNextLTPro-MediumCn.woff') format('woff');
 }
 
+@font-face {
+font-family: 'Avenir Next LT Pro Bold Condensed';
+font-style: normal;
+font-weight: normal;
+src: local('Avenir Next LT Pro Bold Condensed'), url('../fonts/AvenirNextLTPro-BoldCn.woff') format('woff');
+}
+
 body {
 font-family: 'Avenir Next LT Pro Medium Regular', Tahoma, Geneva, sans-serif;
     font-size: 18px;
