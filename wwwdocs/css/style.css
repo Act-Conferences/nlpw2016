@@ -12,6 +12,13 @@
 */
 
 @font-face {
+font-family: 'Avenir Next LT Pro Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Avenir Next LT Pro Regular'), url('../fonts/AvenirNextLTPro-Regular.woff') format('woff');
+}
+
+@font-face {
 font-family: 'Avenir Next LT Pro Medium Condensed';
 font-style: normal;
 font-weight: normal;
@@ -19,7 +26,7 @@ src: local('Avenir Next LT Pro Medium Condensed'), url('../fonts/AvenirNextLTPro
 }
 
 body {
-font-family: 'Avenir Next LT Pro Medium Condensed', Tahoma, Geneva, sans-serif;
+font-family: 'Avenir Next LT Pro Medium Regular', Tahoma, Geneva, sans-serif;
     font-size: 18px;
     background-color: #fafafa;
 }
@@ -142,12 +149,12 @@ span.nlpworange{
 }
 span.nlpwbold{
   /* font-family: nlpwbold; */
-  font-family: Courier;
-  font-weight: bold;
+  font-family: 'Avenir Next LT Pro Medium Condensed';
+  font-weight: normal;
 }
 span.nlpwlight{
   /* font-family: nlpwlight; */
-  font-family: Courier;
+  font-family: 'Avenir Next LT Pro Medium Condensed';
   font-weight: normal;
 }
 
@@ -159,8 +166,8 @@ span.nlpwlight{
 }
 
 .pg-separator h1 {
-	font-family: Courier;
-	font-weight: bold;
+	font-family: 'Avenir Next LT Pro Medium Condensed';
+	font-weight: normal;
     font-size: 54px;
     line-height: 1;
     margin-top:0;
