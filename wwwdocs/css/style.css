@@ -36,7 +36,7 @@ src: local('Avenir Next LT Pro Bold Condensed'), url('../fonts/AvenirNextLTPro-B
 font-family: 'Avenir Next LT Pro Demi Condensed';
 font-style: normal;
 font-weight: normal;
-src: local('Avenir Next LT Pro Demi Condensed'), url('../AvenirNextLTPro-DemiCn.woff') format('woff');
+src: local('Avenir Next LT Pro Demi Condensed'), url('../fonts/AvenirNextLTPro-DemiCn.woff') format('woff');
 }
 
 body {
