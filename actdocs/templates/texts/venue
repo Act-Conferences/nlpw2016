@@ -16,33 +16,26 @@ De workshop wordt gehouden in
 </nl><en>
 The workshop will be held in
 </en></t>
-[% cs_loc_article %] <b> <a href="http://www.uvh.nl/home" target="_blank" class="ext">[% cs_loc_name %]</a>,  [% cs_loc_line2 %], [% cs_loc_city %]</b>.
+[% cs_loc_article %] <b> <a href="http://b.amsterdam" target="_blank" class="ext">[% cs_loc_name %]</a>,  [% cs_loc_line2 %], [% cs_loc_city %]</b>.
 </p>
 
 <p>
 <t><nl>
-Dit is makkelijk te voet te bereiken vanaf Utrecht Centraal Station (1,3 km):
+Dit gebouw is erg dicht bij bus/tram en metro haltes:
 </nl><en>
-This can easily be reached on foot from the central train station of Utrecht (1.3 km):
+This building is very near bus/tram and metro stops:
 </en></t>
 </p>
 <ul class="maintext">
   <li>
-    <a href="https://maps.google.nl/maps?saddr=Utrecht+Centraal,+Hoog-Catharijne+CS+en+Leidseveer,+Utrecht&amp;daddr=Kromme+Nieuwegracht+29,+3512+HD+Utrecht&amp;dirflg=w" target="_blank" class="ext"><t><nl>Wandelroute vanaf Utrecht Centraal naar locatie op Google Maps</nl><en>Walking route from Utrecht Central Station to the venue on Google Maps</en></t>
+    <a href="https://www.google.nl/maps/place/Amsterdam,+Louwesweg/@52.3445077,4.8273723,17.01z/data=!4m7!1m4!3m3!1s0x47c5e18eae78495d:0xc6ec111aab4c79fe!2sB.+Amsterdam+::+Building+Business!3b1!3m1!1s0x47c5e1887381f273:0x08436f8363d184c4"><t><nl>Kijk op Google Maps</nl><en>look on Google Maps</en></t>
     </a>
   </li>
 </ul>
 
 <p>
 <t><nl>
-Voor informatie over openbaar vervoer naar de locatie en parkeermogelijkheden kijk naar de
-</nl><en>
-For information on public transport to the location and parking possibilities, please visit the
-</en></t>
-<a href="http://www.uvh.nl/contact/adres-en-route" class="ext" target="_blank">
-<t><nl>beschrijving op de site van</nl>
-<en>description on the site of</en></t>
-[% cs_loc_article %] [% cs_loc_name %]</a>.
+Er is ruim voldoende (gratis) parkeer gelegenhuid</nl><en>There is plenty of (free) parkinspace available</en></t>
 </p>
 
 </div>

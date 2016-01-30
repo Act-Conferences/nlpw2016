@@ -5,6 +5,7 @@
 <en>Our Platinum sponsors</en></t>
 </h2>
 
+[% IF 0 %]
 <a id="booking"></a>
 <div class="sponsor-page-link">
   <table>
@@ -33,7 +34,8 @@
     </tr>
   </table>
 </div>
-
+[% END %]
+[% IF 0 %]
 <a id="xs4all"></a>
 <div class="sponsor-page-link">
   <table>
@@ -61,13 +63,13 @@
     </tr>
   </table>
 </div>
-
+[% END %]
 <p class="space_before_h4"/>
 <h2>
 <t><nl>Onze Gouden sponsors</nl>
 <en>Our Gold sponsors</en></t>
 </h2>
-
+[% IF 0 %]
 <a id="eligo"></a>
 <div class="sponsor-page-link">
   <table>
@@ -103,7 +105,8 @@
     </tr>
   </table>
 </div>
-
+[% END %]
+[% IF 0 %]
 <a id="perl6"></a>
 <div class="sponsor-page-link">
   <table>
@@ -133,7 +136,8 @@
     </tr>
   </table>
 </div>
-
+[% END %]
+[% IF 0 %]
 <a id="tevreden"></a>
 <div class="sponsor-page-link">
   <table>
@@ -162,13 +166,14 @@
     </tr>
   </table>
 </div>
+[% END %]
 
 <p class="space_before_h4"/>
 <h2>
 <t><nl>Onze Zilveren sponsors</nl>
 <en>Our Silver sponsors</en></t>
 </h2>
-
+[% IF 0 %]
 <a id="perl_careers"></a>
 <div class="sponsor-page-link">
   <table>
@@ -197,7 +202,7 @@
     </tr>
   </table>
 </div>
-
+[% END %]
 
 [% IF 0 %]
 <a id="spoorgloren"></a>
@@ -225,6 +230,7 @@
 <en>Our Bronze sponsors</en></t>
 </h2>
 
+[% IF 0 %]
 <a id="thema_media"></a>
 <div class="sponsor-page-link">
   <table>
@@ -246,7 +252,8 @@
     </tr>
   </table>
 </div>
-
+[% END %]
+[% IF 0 %]
 <a id="dancer"></a>
 <div class="sponsor-page-link">
   <table>
@@ -280,7 +287,8 @@
     </tr>
   </table>
 </div>
-
+[% END %]
+[% IF 0 %]
 <a id="dbix_class"></a>
 <div class="sponsor-page-link">
   <table>
@@ -304,7 +312,8 @@
     </tr>
   </table>
 </div>
-  
+[% END %]  
+[% IF 0 %]
 <a id="tnx"></a>
 <div class="sponsor-page-link">
   <table>
@@ -330,4 +339,5 @@
     </tr>
   </table>
 </div>
+[% END %]
   

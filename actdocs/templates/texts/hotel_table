@@ -12,7 +12,8 @@
   </thead>
   
   <tbody>
-<!--    <tr>
+[% IF 0 %]
+    <tr>
       <td><a href="http://www.havaa-apartments.com/studios-penthouse.html " target="_blank" class="ext">Havaa&nbsp;Apartments&nbsp;(Penthouse)</a></td>
       <td>€ 198 (max. 3 pers.)</td>
       <td><a href="https://maps.google.nl/maps?saddr=Korte+Jansstraat+2A,+Neude+Janskerkhof+en+Domplein,+Utrecht&amp;daddr=Kromme+Nieuwegracht+29,+3512+HD+Utrecht&amp;hl=nl&amp;dirflg=w" target="_blank" class="ext">0[% cs_dec_sep %]4&nbsp;km</a></td>
@@ -48,7 +49,8 @@
 € 168 (2 pers.)</td>
       <td><a href="https://maps.google.nl/maps?saddr=F.C.+Dondersstraat+12,+3572+JH+Utrecht&amp;daddr=Kromme+Nieuwegracht+29,+3512+HD+Utrecht&amp;dirflg=w" target="_blank" class="ext">1[% cs_dec_sep %]3&nbsp;km</a></td>
       <td><a href="[% make_uri_info('img/hotels', 'oorsprongpark.jpg') %]"><img src="[% make_uri_info('img/hotels', 'oorsprongpark.jpg') %]" height="48" alt="Hotel Oorsprongpark"/></a></td>
-    </tr> -->
+    </tr>
+[% END %]
   </tbody>
 </table>
 
