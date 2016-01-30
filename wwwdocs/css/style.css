@@ -42,11 +42,11 @@ body {
 
 .navbar-default {
     border-radius: 0;
-    background-color: #3c3c3b;
+    background-color: black;
     border-left: 0px;
     border-right: 0px;
     border-top: 0px;
-    border-bottom: 1px solid #fe5500;
+    border-bottom: 1px solid #cc0000;
     margin-bottom: 0;
 }
 
@@ -63,7 +63,7 @@ body {
 
 .navbar-default .navbar-toggle:hover .icon-bar,
 .navbar-default .navbar-toggle:focus .icon-bar{
-    background-color: #3c3c3b;
+    background-color: black;
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -85,23 +85,23 @@ body {
 .navbar-default .navbar-nav>.open>a,
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default .navbar-nav>.open>a:focus {
-    background-color: #fe5500;
-    color: #3c3c3b;
+    background-color: #cc0000;
+    color: black;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
-  background-color: #fe5500;
+  background-color: #cc0000;
 }
 .navbar-default .dropdown-menu {
-    background-color: #3c3c3b;
+    background-color: black;
 }
 
 .dropdown-menu .divider {
-    background-color: #fe5500;
+    background-color: #cc0000;
 }
 
 .pattern {
-	background-color: black;
- 	background-image: url('/nlpw2016/img/fabric.jpg');
+	background-color: #cc0000;
+/*  	background-image: url('/nlpw2016/img/fabric.jpg'); */
 	background-position: center;
 	background-size: cover;
 	webkit-background-size: cover;
@@ -132,7 +132,7 @@ body {
    font-weight: normal;
 }
 span.nlpworange{
-  color: #fe5500;
+  color: #cc0000;
 }
 span.nlpwbold{
   /* font-family: nlpwbold; */
@@ -146,7 +146,7 @@ span.nlpwlight{
 }
 
 .pg-separator {
-    background-color: #3c3c3b;
+    background-color: black;
     color: #fff;
     margin-top:-20px;
     padding: 65px 15px 40px 15px;
@@ -183,7 +183,7 @@ span.nlpwlight{
 
 footer {
     margin-top: 40px;
-    background-color: #3c3c3b;
+    background-color: black;
     color: #000;
     border-top: 1px solid black;
     background-color: #fafafa;
@@ -200,16 +200,16 @@ footer .navbar.navbar-default{
   display: inline;
 }
 .btn-primary{
-  background-color: #fe5500;
+  background-color: #cc0000;
   border-color: black;
 }
 .btn-primary:hover{
-  color: #fe5500;
+  color: #cc0000;
   background-color: white;
   border-color: black;
 }
 a {
-  color: #fe5500;
+  color: #cc0000;
 }
 
 /* NLPW custom */
