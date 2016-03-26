@@ -10,6 +10,10 @@
             <div class="col-sm-6">
               [%# PROCESS footers/social %]
             </div>
+          </div>
+        </div>
+        <div class="container pattern">
+		  <div class="row">
             <div class="col-sm-12">
               [% PROCESS footers/sponsors %]
             </div>
