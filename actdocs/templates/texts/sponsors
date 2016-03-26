@@ -5,7 +5,6 @@
 <en>Our Platinum sponsors</en></t>
 </h2>
 
-[% IF 0 %]
 <a id="booking"></a>
 <div class="sponsor-page-link">
   <table>
@@ -34,8 +33,6 @@
     </tr>
   </table>
 </div>
-[% END %]
-[% IF 0 %]
 <a id="xs4all"></a>
 <div class="sponsor-page-link">
   <table>
@@ -43,7 +40,7 @@
       <td valign="top">
         <h3>&nbsp;</h3>
         <a href="http://www.xs4all.com" target="_blank">
-          <img src="[% make_uri_info('img/logos', 'xs4all_logo_yellow_rgb.png') %]"
+          <img src="[% make_uri_info('img/logos', 'xs4all_logo.png') %]"
             alt="XS4ALL" width="160px" />
         </a>
       </td>
@@ -63,13 +60,11 @@
     </tr>
   </table>
 </div>
-[% END %]
 <p class="space_before_h4"/>
 <h2>
 <t><nl>Onze Gouden sponsors</nl>
 <en>Our Gold sponsors</en></t>
 </h2>
-[% IF 0 %]
 <a id="eligo"></a>
 <div class="sponsor-page-link">
   <table>
@@ -105,8 +100,6 @@
     </tr>
   </table>
 </div>
-[% END %]
-[% IF 0 %]
 <a id="perl6"></a>
 <div class="sponsor-page-link">
   <table>
@@ -136,7 +129,6 @@
     </tr>
   </table>
 </div>
-[% END %]
 [% IF 0 %]
 <a id="tevreden"></a>
 <div class="sponsor-page-link">
@@ -173,7 +165,6 @@
 <t><nl>Onze Zilveren sponsors</nl>
 <en>Our Silver sponsors</en></t>
 </h2>
-[% IF 0 %]
 <a id="perl_careers"></a>
 <div class="sponsor-page-link">
   <table>
@@ -202,7 +193,34 @@
     </tr>
   </table>
 </div>
-[% END %]
+<a id="perl_academy"></a>
+<div class="sponsor-page-link">
+  <table>
+    <tr>
+      <td valign="top">
+        <h3>&nbsp;</h3>
+        <a href="http://http://www.perl-academy.de" target="_blank">
+          <img src="[% make_uri_info('img/logos', 'perl_academy.png') %]"
+            alt="Perl Academy"  width="160px" />
+        </a>
+      </td>
+      <td valign="top">
+        <h3>Perl Academy</h3>
+        <p>
+<!--        Perl Careers is a Perl-focused recruitment consultancy, run by a CPAN
+        contributor with a recruitment background, rather than by a
+        non-technical person. Most of the roles and candidates I work with are
+        based in London.
+        </p>
+        <p>
+        At Perl-Careers, we can understand the skills you're looking to hire for, make sense of
+        your GitHub profile, and offer specific Perl-related career and salary
+        advice.
+-->        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 [% IF 0 %]
 <a id="spoorgloren"></a>
@@ -230,7 +248,6 @@
 <en>Our Bronze sponsors</en></t>
 </h2>
 
-[% IF 0 %]
 <a id="thema_media"></a>
 <div class="sponsor-page-link">
   <table>
@@ -252,8 +269,6 @@
     </tr>
   </table>
 </div>
-[% END %]
-[% IF 0 %]
 <a id="dancer"></a>
 <div class="sponsor-page-link">
   <table>
@@ -287,8 +302,6 @@
     </tr>
   </table>
 </div>
-[% END %]
-[% IF 0 %]
 <a id="dbix_class"></a>
 <div class="sponsor-page-link">
   <table>
@@ -312,8 +325,6 @@
     </tr>
   </table>
 </div>
-[% END %]  
-[% IF 0 %]
 <a id="tnx"></a>
 <div class="sponsor-page-link">
   <table>
@@ -339,5 +350,4 @@
     </tr>
   </table>
 </div>
-[% END %]
   
