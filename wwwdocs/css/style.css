@@ -42,7 +42,7 @@ src: local('Avenir Next LT Pro Demi Condensed'), url('../fonts/AvenirNextLTPro-D
 body {
 font-family: 'Avenir Next LT Pro Medium Regular', Tahoma, Geneva, sans-serif;
     font-size: 18px;
-    background-color: #fafafa;
+    background-color: #cccccc;
 }
 
 @media(max-width:767px) {
