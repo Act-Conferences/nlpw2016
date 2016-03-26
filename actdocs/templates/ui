@@ -79,6 +79,9 @@
 
       [% PROCESS footer %]
     </footer>
+    <footer class="bs-docs-footer" role="contentinfo" style="background-color: #cc0000;">
+	  [% PROCESS sponsors %]
+    </footer>
     <script src="[% make_uri_info('js', 'bootstrap.min.js') %]"></script>
     <!-- ACT base stuff
     <link rel="stylesheet" type="text/css" href="/css/act-base.css" />

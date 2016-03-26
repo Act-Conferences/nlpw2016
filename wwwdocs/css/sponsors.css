@@ -1,4 +1,8 @@
-.sponsor-container {
+.sponsor-footer {
+  background-color: #c00;
+}
+
+.sponsor-how {
   background-color: #000;
 }
 .sponsor-banner {
@@ -42,28 +46,4 @@ a.sponsor {
 a.sponsor:hover {
   background-image: url("../img/sponsors.png");
   opacity: 1;
-}
-
-.sponsor.corteingles {
-  background-position: 5px -8px;
-}
-
-.sponsor.eroski {
-  background-position: -163px -8px;
-}
-
-.sponsor.condis {
-  background-position: -331px -8px;
-}
-
-.sponsor.alcampo {
-  background-position: 0px -107px;
-}
-
-.sponsor.carrefour {
-  background-position: -165px -107px;
-}
-
-.sponsor.mercadona {
-  background-position: -331px -107px;
 }

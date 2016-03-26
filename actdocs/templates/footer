@@ -16,23 +16,3 @@
     </div>
   </div>
 </div>
-<div id="page-footer" style="backround: #cc0000;">
-  <div class="holder">
-    <div class="frame">
-      <div>        
-        <div class="container"">
-         <div class="pattern">
-		  <div class="row">
-            <div class="col-sm-12">
-              [% PROCESS footers/sponsors %]
-            </div>
-            <div class="col-sm-12">
-              [% PROCESS footers/powered %]
-            </div>
-          </div>
-         </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
