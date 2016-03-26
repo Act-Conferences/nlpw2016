@@ -12,7 +12,7 @@
             </div>
           </div>
         </div>
-        <div class="container">
+        <div class="container" style="background-color: #cc0000;">
          <div class="pattern">
 		  <div class="row">
             <div class="col-sm-12">
