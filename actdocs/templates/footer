@@ -12,7 +12,15 @@
             </div>
           </div>
         </div>
-        <div class="container" style="background-color: #cc0000;">
+      </div>
+    </div>
+  </div>
+</div>
+<div id="page-footer" style="backround: #cc0000;">
+  <div class="holder">
+    <div class="frame">
+      <div>        
+        <div class="container"">
          <div class="pattern">
 		  <div class="row">
             <div class="col-sm-12">
