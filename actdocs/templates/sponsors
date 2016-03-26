@@ -3,7 +3,6 @@
     <div class="frame">
       <div>        
         <div class="container"">
-         <div class="pattern">
 		  <div class="row">
             <div class="col-sm-12">
               [% PROCESS footers/sponsors %]
@@ -12,7 +11,6 @@
               [% PROCESS footers/powered %]
             </div>
           </div>
-         </div>
         </div>
       </div>
     </div>
