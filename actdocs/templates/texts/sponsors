@@ -172,7 +172,7 @@
       <td valign="top">
         <h3>&nbsp;</h3>
         <a href="http://perl.careers" target="_blank">
-          <img src="[% make_uri_info('img/logos', 'perl_careers.png') %]"
+          <img src="[% make_uri_info('img/logos', 'perl_careers_logo_white.png') %]"
             alt="Perl Careers"  width="160px" />
         </a>
       </td>
